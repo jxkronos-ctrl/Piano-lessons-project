@@ -13,9 +13,19 @@ header {
 }
 #curriculum-card-content {
     text-align: left;
-    max-width: 100%;  
+    max-width: 50%;  
 }
 .mode-instructions-card img {
    width: 100%;
    display: block;
+}
+.mode-instructions-card {
+    width: 300px;
+    overflow: hidden;
+    border-radius: 12px;
+    background-color: rgb(245, 239, 220);
+    margin: 10px;
+}
+.mode-card-content {
+    padding-left: 10px;
 }
