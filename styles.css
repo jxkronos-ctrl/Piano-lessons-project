@@ -1,0 +1,21 @@
+li {
+   font-weight: bold; 
+}
+header {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    max-width: 100%;
+    background: beige
+}
+.card-photo {
+    max-width: 100%;
+}
+#curriculum-card-content {
+    text-align: left;
+    max-width: 100%;  
+}
+.mode-instructions-card {
+   width: 100%;
+   display: block;
+}
