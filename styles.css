@@ -36,7 +36,7 @@ display: block;
 border: 10px solid line blue;
 }
 .curriculum-content {
-
+color: rgba(255, 255, 255, 0.877);
 }
 .mode-instructions-card img {
    width: 100%;
